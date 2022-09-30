@@ -4,3 +4,11 @@
 #### Необходимо использовать Python 3.8 и установить пакеты из файла requirements.txt: 
 
   ``` pip install -r requirements.txt ```
+  
+### Воспроизведение решения:
+
+*  Запустить [сollector_solution.ipynb](https://github.com/Evgenkaz/collector_2022/blob/main/collector_solution.ipynb)
+
+
+### License
+#### [MIT license](https://github.com/Evgenkaz/collector_2022/blob/main/LICENSE)
